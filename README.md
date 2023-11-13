@@ -8,12 +8,12 @@
 <table>
   <tr>
     <th>HTML5</th>
-    <td>3 Years</td>
+    <th>JS</th>
     <th>CSS</th>
-    <td>3 Years</td>
   </tr>
   <tr>
-    <th>JS</th>
+    <td>3 Years</td>
+    <td>3 Years</td>
     <td>3 Years</td>
   </tr>
   <tr>
