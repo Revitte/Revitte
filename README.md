@@ -10,18 +10,14 @@
     <th>HTML5</th>
     <th>JS</th>
     <th>CSS</th>
-  </tr>
-  <tr>
-    <td>3 Years</td>
-    <td>3 Years</td>
-    <td>3 Years</td>
-  </tr>
-  <tr>
     <th>Java</th>
-    <td>3 Years</td>
+    <th>SQL</th>
   </tr>
   <tr>
-    <th>SQL</th>
+    <td>3 Years</td>
+    <td>3 Years</td>
+    <td>3 Years</td>
+    <td>3 Years</td>
     <td>3 Years</td>
   </tr>
 </table>
