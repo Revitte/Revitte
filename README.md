@@ -8,23 +8,23 @@
 <table>
   <tr>
     <th>HTML5</th>
-    <th>3 Years</th>
+    <td>3 Years</td>
   </tr>
   <tr>
-    <td>CSS</td>
+    <th>CSS</th>
     <td>3 Years</td>
   </tr>
   <tr>
     <th>JS</th>
-    <th>3 Years</th>
+    <td>3 Years</td>
   </tr>
   <tr>
     <th>Java</th>
-    <th>3 Years</th>
+    <td>3 Years</td>
   </tr>
   <tr>
     <th>SQL</th>
-    <th>3 Years</th>
+    <td>3 Years</td>
   </tr>
 </table>
 </table>
