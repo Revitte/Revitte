@@ -7,13 +7,26 @@
 
 <table>
   <tr>
-    <th>Month</th>
-    <th>Savings</th>
+    <th>HTML5</th>
+    <th>3 Years</th>
   </tr>
   <tr>
-    <td>January</td>
-    <td>$100</td>
+    <td>CSS</td>
+    <td>3 Years</td>
   </tr>
+  <tr>
+    <th>JS</th>
+    <th>3 Years</th>
+  </tr>
+  <tr>
+    <th>Java</th>
+    <th>3 Years</th>
+  </tr>
+  <tr>
+    <th>SQL</th>
+    <th>3 Years</th>
+  </tr>
+</table>
 </table>
 
 <picture>
