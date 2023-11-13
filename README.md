@@ -9,8 +9,6 @@
   <tr>
     <th>HTML5</th>
     <td>3 Years</td>
-  </tr>
-  <tr>
     <th>CSS</th>
     <td>3 Years</td>
   </tr>
