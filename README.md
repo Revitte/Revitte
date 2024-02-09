@@ -13,6 +13,9 @@
     <th>CSS</th>
     <th>Java</th>
     <th>SQL</th>
+    <th>AWS</th>
+    <th>Spring Boot</th>
+    <th>Vue.js</th>
   </tr>
   <tr>
     <td>3 Years</td>
@@ -20,6 +23,9 @@
     <td>3 Years</td>
     <td>3 Years</td>
     <td>3 Years</td>
+    <td>1 Year</td>
+    <td>3 Years</td>
+    <th>3 Years</th>
   </tr>
 </table>
 </table>
