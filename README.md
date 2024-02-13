@@ -4,7 +4,7 @@
 - 🌱 Cursando minha pós em Desenvolvimento Full Stack
 - 🤔 contate-me no email: revitteotavious@gmail.com
 - 😄 Pronomes: Ele/Dele
-- 😎 Nickname: Tata, Tavio and my favorite... oitavo.
+- 😎 Nickname: Revitte, Tavio and my favorite... Jazz.
 
 <table>
   <tr>
