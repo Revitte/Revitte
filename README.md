@@ -18,11 +18,11 @@
     <th>Vue.Js</th>
   </tr>
   <tr>
-    <td>3 Years</td>
-    <td>3 Years</td>
-    <td>3 Years</td>
-    <td>3 Years</td>
-    <td>3 Years</td>
+    <td>5 Years</td>
+    <td>5 Years</td>
+    <td>5 Years</td>
+    <td>5 Years</td>
+    <td>5 Years</td>
     <td>1 Year</td>
     <td>3 Years</td>
     <td>3 Years</td>
