@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Otávio Revitte 👋
 
 - 🔭 Atualmente fazendo freelancer de desenvolvimento Web 
-- 🌱 Cursando minha pós em Desenvolvimento Full Stack
-- 🤔 contate-me no email: revitteotavious@gmail.com
+- 🌱 Pós em Desenvolvimento Full Stack
+- 🤔 contate-me no email: revitteotavio@gmail.com
 - 😄 Pronomes: Ele/Dele
 - 😎 Nickname: Revitte, Tavio and my favorite... Jazz.
 
